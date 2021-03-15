@@ -35,4 +35,4 @@ Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
 - GET /api/events/delete/:eventID - *Delete an Event using eventID*
 
 #### POSTMAN Collection -
- [https://www.getpostman.com/collections/e9275d6615f88e25ae87](Click here)
+ [Click Here](https://www.getpostman.com/collections/e9275d6615f88e25ae87)
